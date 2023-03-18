@@ -1,7 +1,6 @@
 ![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif)
 <h1 align="center">Hi 👋, I'm Sarthak Sharma</h1>
 <h3 align="center">4⭐ CodeChef / 5⭐ HackerRank, ML/AI learner 📖</h3>
-<img align="right" alt="Coding" width="200" src="https://imgs.search.brave.com/Pol2HUhKANBiZmAKWkFBTajhrx1Nj7p8kiLaKZdJFic/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwMTk4/NjQvc2NyZWVuc2hv/dHMvMzA3OTA5OS9j/b2RlbG9vcC5naWY.gif">
 
 
 - 🌱 I’m currently learning **FastAPI, ML**
