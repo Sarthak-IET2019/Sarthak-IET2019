@@ -3,7 +3,7 @@
 <h3 align="center">4⭐ CodeChef / 5⭐ HackerRank, ML/AI learner 📖</h3>
 
 
-- 🌱 I’m currently learning **FastAPI, ML**
+- 🌱 I’m currently learning **Android Development, ML**
 
 - 💬 Ask me about **Data Structure and Algorithms, Machine Learning/AI**
 
