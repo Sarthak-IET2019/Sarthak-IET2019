@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sarthakiet2019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NGxZCg4t0ziXcH7ZXJR-sLu-sqEFDyU2/view](https://drive.google.com/file/d/1NGxZCg4t0ziXcH7ZXJR-sLu-sqEFDyU2/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1st_vkqFGh_dvlqhgKAZ6syEnd2-EKpFt/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
